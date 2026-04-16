@@ -1,3 +1,3 @@
-#TP0
+# TP0
 ## Primer programa en c 
 "Hola Mundo"
